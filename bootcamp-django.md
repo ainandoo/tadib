@@ -16,16 +16,13 @@ Peserta dapat menulis dan menjalankan kode program Python secara offline.
 ### Materi: Teknologi dasar web
 
 HTML
-
-Referensi: https://www.w3schools.com/html/default.asp
+- https://www.w3schools.com/html/default.asp
 
 CSS
-
-Referensi: https://www.w3schools.com/css/default.asp
+- https://www.w3schools.com/css/default.asp
 
 JS
-
-Referensi: https://www.w3schools.com/js/default.asp
+- https://www.w3schools.com/js/default.asp
 
 **Checkpoint:**
 
@@ -33,6 +30,9 @@ Peserta memiliki minimal pengetahuan dasar tentang HTML, CSS dan akan lebih baik
 
 # Pertemuan 3
 ### Materi: Dasar Python & Django Framework
+
+Tutorial Python
+- https://docs.python.org/3/tutorial/index.html
 
 Django Framework
 - https://www.djangoproject.com/
@@ -52,12 +52,20 @@ Peserta memiliki pengalaman praktik membuat website menggunakan Django framework
 
 **Checkpoint:**
 
+Peserta memiliki pemahaman dan pengalaman tambahan seputar menulis kode menggunakan bantuan AI.
+
 # Pertemuan 5
 ### Materi: Monetisasi Django
 
 Upwork
+- https://www.upwork.com/
+
+Freelancer
+- https://www.freelancer.com/
 
 projects.co.id
+- https://projects.co.id/
 
 **Checkpoint:**
 
+Peserta mendapatkan wawasan mengenai cara mendapatkan uang dari aktivitas web development
