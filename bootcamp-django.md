@@ -8,7 +8,9 @@ Teks Editor
 - https://code.visualstudio.com/
 - https://www.jetbrains.com/pycharm/download/
 
-### Checkpoint: peserta dapat menulis dan menjalankan kode program Python secara offline
+Checkpoint: 
+
+Peserta dapat menulis dan menjalankan kode program Python secara offline.
 
 # Pertemuan 2
 ### Materi: Teknologi dasar web
@@ -24,6 +26,9 @@ Referensi: https://www.w3schools.com/css/default.asp
 JS
 
 Referensi: https://www.w3schools.com/js/default.asp
+
+Checkpoint:
+Peserta memiliki minimal pengetahuan dasar tentang HTML dan CSS serta lebih baik lagi jika juga memiliki sedikit pengetahuan mengenai JavaScript.
 
 # Pertemuan 3
 **Dasar Python & Django**
