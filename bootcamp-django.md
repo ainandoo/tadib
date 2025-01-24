@@ -8,7 +8,7 @@ Teks Editor
 - https://code.visualstudio.com/
 - https://www.jetbrains.com/pycharm/download/
 
-Checkpoint: 
+**Checkpoint:**
 
 Peserta dapat menulis dan menjalankan kode program Python secara offline.
 
@@ -27,21 +27,37 @@ JS
 
 Referensi: https://www.w3schools.com/js/default.asp
 
-Checkpoint:
+**Checkpoint:**
+
 Peserta memiliki minimal pengetahuan dasar tentang HTML dan CSS serta lebih baik lagi jika juga memiliki sedikit pengetahuan mengenai JavaScript.
 
 # Pertemuan 3
-**Dasar Python & Django**
+### Materi: Dasar Python & Django Framework
+
+Django Framework
+- https://www.djangoproject.com/
+
+Cara install Django
+- 
 
 Complete Django Tutorial | Net Ninja
 - https://www.youtube.com/playlist?list=PL4cUxeGkcC9iqfAag3a_BKEX1N43uJutw
 
+**Checkpoint:**
+
+Peserta memiliki pengalaman praktik membuat website menggunakan Django framework.
+
 # Pertemuan 4
-**Django + AI**
+### Materi: Django + AI
+
+**Checkpoint:**
 
 # Pertemuan 5
-**Monetisasi Django**
+### Materi: Monetisasi Django
 
 Upwork
 
 projects.co.id
+
+**Checkpoint:**
+
