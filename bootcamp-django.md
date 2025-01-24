@@ -1,5 +1,5 @@
 # Pertemuan 1
-**Persiapan & tools**
+### Materi: Persiapan & tools
 
 Python
 - https://www.python.org/
@@ -7,18 +7,22 @@ Python
 Teks Editor
 - https://code.visualstudio.com/
 - https://www.jetbrains.com/pycharm/download/
-
-
  
 
 # Pertemuan 2
-**Teknologi dasar web**
+### Materi: Teknologi dasar web
 
 HTML
 
+Referensi: https://www.w3schools.com/html/default.asp
+
 CSS
 
+Referensi: https://www.w3schools.com/css/default.asp
+
 JS
+
+Referensi: https://www.w3schools.com/js/default.asp
 
 # Pertemuan 3
 **Dasar Python & Django**
