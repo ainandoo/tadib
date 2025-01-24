@@ -29,7 +29,7 @@ Referensi: https://www.w3schools.com/js/default.asp
 
 **Checkpoint:**
 
-Peserta memiliki minimal pengetahuan dasar tentang HTML dan CSS serta lebih baik lagi jika juga memiliki sedikit pengetahuan mengenai JavaScript.
+Peserta memiliki minimal pengetahuan dasar tentang HTML, CSS dan akan lebih baik lagi jika memiliki sedikit pengetahuan mengenai JavaScript.
 
 # Pertemuan 3
 ### Materi: Dasar Python & Django Framework
@@ -38,7 +38,7 @@ Django Framework
 - https://www.djangoproject.com/
 
 Cara install Django
-- 
+- youtube.com/@ainandoo
 
 Complete Django Tutorial | Net Ninja
 - https://www.youtube.com/playlist?list=PL4cUxeGkcC9iqfAag3a_BKEX1N43uJutw
