@@ -7,7 +7,8 @@ Python
 Teks Editor
 - https://code.visualstudio.com/
 - https://www.jetbrains.com/pycharm/download/
- 
+
+### Checkpoint: peserta dapat menulis dan menjalankan kode program Python secara offline
 
 # Pertemuan 2
 ### Materi: Teknologi dasar web
