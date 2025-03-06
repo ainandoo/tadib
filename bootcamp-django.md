@@ -38,7 +38,7 @@ Django Framework
 - https://www.djangoproject.com/
 
 Cara install Django
-- youtube.com/@ainandoo
+- https://www.youtube.com/watch?v=QOXnOSfE7n0
 
 Complete Django Tutorial | Net Ninja
 - https://www.youtube.com/playlist?list=PL4cUxeGkcC9iqfAag3a_BKEX1N43uJutw
